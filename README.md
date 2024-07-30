@@ -8,4 +8,4 @@ Python Programmer
 * ✉️  You can contact me at [pavlinoff (at) hotmail.com](mailto:pavlinoff (at) hotmail.com)
 * 🚀  I'm currently working on [Geeksforless inc.](http://geeksforless.com)
 * 🤝  I'm open to collaborating on LLM, High-load, Cloud, Perfomance, Software architecture
-* ⚡  Call me if your want to drink coffee and code for fun
+* ⚡  Call me if your want to drink coffee and code for fun.
